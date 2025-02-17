@@ -44,7 +44,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "I am a hard working Asian Man"
+            "I am a hard working Asian Man. Probably"
         },
         {
           id: "second-p-about",
